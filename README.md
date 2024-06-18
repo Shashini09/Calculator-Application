@@ -1,0 +1,1 @@
+Creating a simple calculator application using Android Studio in my 2nd year. The project includes developing layouts, activities, and implementing basic arithmetic operations. The application is coded in Kotlin, providing a straightforward and user-friendly interface for performing calculations.

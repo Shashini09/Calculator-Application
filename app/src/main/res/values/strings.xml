@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculatorapp</string>
+    <string name="enternumber1">Number1</string>
+    <string name="number1">Enter Number 1</string>
+    <string name="enternumber2">Number 2</string>
+    <string name="number_" />
+    <string name="number2">Enter Number 2</string>
+    <string name="btn_1">+</string>
+    <string name="btn_2">-</string>
+    <string name="btn_3">*</string>
+    <string name="btn_4">/</string>
+    <string name="text_1">Answer</string>
+    <string name="text_2">TextView</string>
+    <string name="text_3">Back</string>
+    <string name="btn_01">Back</string>
+</resources>
